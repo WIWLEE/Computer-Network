@@ -1,0 +1,3 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  server.cpp
+  server.vcxproj -> C:\Users\io081\Desktop\computer-network\final version\server-3\Debug\server.exe

@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  client.cpp
+client.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  client.vcxproj -> C:\Users\io081\Desktop\computer-network\final version\client-3\Debug\client.exe
